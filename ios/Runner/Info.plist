@@ -47,5 +47,20 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>CFBundleURLTypes</key>
+    <array>
+    	<dict>
+    		<key>CFBundleTypeRole</key>
+    		<string>Editor</string>
+    		<key>CFBundleURLSchemes</key>
+    		<array>
+    			<string>com.googleusercontent.apps.661700431102-4pin47osu525dabs0piovafr781pirqe</string>
+    		</array>
+    	</dict>
+    </array>
+    <key>NSCameraUsageDescription</key>
+    <string>$(PRODUCT_NAME) Quick Meet needs access to your camera for meetings.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>$(PRODUCT_NAME) Quick Meet needs access to your microphone for meetings.</string>
 </dict>
 </plist>

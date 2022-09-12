@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "661700431102",
+    "project_id": "quick-meet-476fa",
+    "storage_bucket": "quick-meet-476fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661700431102:android:7f3921e41e5bd8457629af",
+        "android_client_info": {
+          "package_name": "com.example.quick_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661700431102-adsqjslu1u0bcs4896dn7gvnf9u35osh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quick_meet",
+            "certificate_hash": "91e9e9ad56953d6612c7bad7334a5d2da0234ccf"
+          }
+        },
+        {
+          "client_id": "661700431102-n341r23bm4slql6ra8b2ms7jpj0ip158.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlOmzmv5G5IrNw7sFoq06AhlDPF6UsV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661700431102-n341r23bm4slql6ra8b2ms7jpj0ip158.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661700431102-4pin47osu525dabs0piovafr781pirqe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quickMeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.quick_meet">
-   <application
+    <application
+        tools:replace="android:label"
         android:label="quick_meet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
